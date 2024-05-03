@@ -4,7 +4,7 @@ Sagemaker and Kaggle notebook for Stable Diffusion WebUI, using Pinggy and Zrok 
 
 <table>
   <tr>
-    <td><a href="https://xqhpthz6ll5c1uf.studio.us-east-2.sagemaker.aws/studiolab/default/jupyter/lab/tree/sagemaker-studiolab-notebooks/HandRefinerColab/HandRefiner-SagemakerStudioLab.ipynb" target="_blank"><img align="left" alt="Open in Sagemaker Studio Lab" title="Open in Sagemaker Studio Lab" src="https://studiolab.sagemaker.aws/studiolab.svg" /></a></td>
+    <td><a href="https://studiolab.sagemaker.aws/import/github/wandaweb/stable-diffusion-webui-sagemaker/blob/main/StableDiffusionWebUI-SageMaker.ipynb" target="_blank"><img align="left" alt="Open in Sagemaker Studio Lab" title="Open in Sagemaker Studio Lab" src="https://studiolab.sagemaker.aws/studiolab.svg" /></a></td>
     <td>Sagemaker Studio Lab</td>
   </tr>
   <tr>
