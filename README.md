@@ -8,7 +8,7 @@ Sagemaker and Kaggle notebook for Stable Diffusion WebUI, using Pinggy and Zrok 
     <td>Sagemaker Studio Lab</td>
   </tr>
   <tr>
-    <td><a href="https://www.kaggle.com/pogscafe/handrefiner-kaggle/" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a></td>
+    <td><a href="https://www.kaggle.com/code/pogscafe/stable-diffusion-webui-kaggle" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a></td>
     <td>Kaggle notebook</td>
   </tr>
 </table>
