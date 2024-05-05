@@ -13,6 +13,10 @@ Sagemaker and Kaggle notebook for Stable Diffusion WebUI, using Pinggy and Zrok 
   </tr>
 </table>
 
+
+How-to video:  
+<a href="https://youtu.be/QA2o1bHt9U4"><img src="https://i3.ytimg.com/vi/QA2o1bHt9U4/maxresdefault.jpg" width=300) /></a>
+
 ---
 Stable Diffusion WebUI on GitHub  
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
